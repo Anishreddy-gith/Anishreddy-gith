@@ -22,7 +22,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anishreddy-gith&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Anishreddy-gith&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Anishreddy-gith&theme=tokyonight&hide_border=true" />
 </p>
 
 
