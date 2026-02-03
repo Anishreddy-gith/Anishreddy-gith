@@ -18,16 +18,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnishReddyBoppidi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishReddyBoppidi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anishreddy-gith&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=Anishreddy-gith&theme=tokyonight&cache_seconds=86400" />
 </p>
+
 
 ---
 
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishReddyBoppidi&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anishreddy-gith&theme=react-dark&area=true" />
 </p>
+
 
 ---
 
